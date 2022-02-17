@@ -1,0 +1,4 @@
+com\truemeds\truemeds\Repository\InputDetailsRepository.class
+com\truemeds\truemeds\TruemedsApplication.class
+com\truemeds\truemeds\controller\TruemedsController.class
+com\truemeds\truemeds\models\InputDetail.class
